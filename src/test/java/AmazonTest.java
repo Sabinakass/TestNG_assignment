@@ -1,4 +1,4 @@
-package test.java;
+
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -126,7 +126,6 @@ public class AmazonTest {
         }
     }
 
-    // Helper method to take screenshots
     private void takeScreenshot(String stepName) {
         String screenshotPath = "screenshots/" + stepName + ".png";
         try {
