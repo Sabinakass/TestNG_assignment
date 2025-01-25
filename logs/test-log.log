@@ -1,0 +1,41 @@
+2025-01-20 12:04:33 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-20 12:09:00 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-20 12:11:25 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-20 12:11:26 [main] INFO  test.java.AmazonTest - Navigating to Amazon website
+2025-01-20 12:11:28 [main] INFO  test.java.AmazonTest - Searching for 'laptop'
+2025-01-20 12:11:31 [main] INFO  test.java.AmazonTest - Verifying search results
+2025-01-20 12:11:31 [main] INFO  test.java.AmazonTest - Closing WebDriver and finalizing Extent Reports
+2025-01-20 12:11:47 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-20 12:11:48 [main] INFO  test.java.AmazonTest - Navigating to Amazon website
+2025-01-20 12:11:49 [main] INFO  test.java.AmazonTest - Searching for 'laptop'
+2025-01-20 12:11:52 [main] INFO  test.java.AmazonTest - Verifying search results
+2025-01-20 12:11:52 [main] INFO  test.java.AmazonTest - Closing WebDriver and finalizing Extent Reports
+2025-01-25 14:31:31 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-25 14:31:32 [main] INFO  test.java.AmazonTest - Navigating to Amazon website
+2025-01-25 14:31:35 [main] INFO  test.java.AmazonTest - Searching for 'laptop'
+2025-01-25 14:31:37 [main] INFO  test.java.AmazonTest - Verifying search results
+2025-01-25 14:31:37 [main] INFO  test.java.AmazonTest - Closing WebDriver and finalizing Extent Reports
+2025-01-25 14:37:12 [main] INFO  test.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-25 14:37:13 [main] INFO  test.AmazonTest - Navigating to Amazon website
+2025-01-25 14:37:13 [main] INFO  test.AmazonTest - Verifying homepage title
+2025-01-25 14:37:14 [main] INFO  test.AmazonTest - Searching for 'laptop'
+2025-01-25 14:37:24 [main] INFO  test.AmazonTest - Applying filter for 'HP' brand
+2025-01-25 14:37:29 [main] INFO  test.AmazonTest - Clicking on the first product
+2025-01-25 14:37:29 [main] INFO  test.AmazonTest - Closing WebDriver and finalizing Extent Reports
+2025-01-25 14:50:38 [main] INFO  test.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-25 14:50:39 [main] INFO  test.AmazonTest - Navigating to Amazon website
+2025-01-25 14:50:41 [main] INFO  test.AmazonTest - Verifying homepage title
+2025-01-25 14:50:41 [main] INFO  test.AmazonTest - Searching for 'laptop'
+2025-01-25 14:50:51 [main] INFO  test.AmazonTest - Applying filter for 'HP' brand
+2025-01-25 14:51:01 [main] INFO  test.AmazonTest - Clicking on the first product
+2025-01-25 14:51:11 [main] INFO  test.AmazonTest - Closing WebDriver and finalizing Extent Reports
+2025-01-25 15:11:28 [main] INFO  test.java.AmazonTest - Setting up WebDriver and Extent Reports
+2025-01-25 15:11:30 [main] INFO  test.java.AmazonTest - Navigating to Amazon website
+2025-01-25 15:11:32 [main] INFO  test.java.AmazonTest - Verifying homepage title
+2025-01-25 15:11:32 [main] INFO  test.java.AmazonTest - Searching for 'laptop'
+2025-01-25 15:11:35 [main] INFO  test.java.AmazonTest - Verifying search results
+2025-01-25 15:11:35 [main] INFO  test.java.AmazonTest - Applying filter for 'HP' brand
+2025-01-25 15:11:36 [main] INFO  test.java.AmazonTest - Verifying filtered results contain 'HP'
+2025-01-25 15:11:36 [main] INFO  test.java.AmazonTest - Clicking on the first product
+2025-01-25 15:11:40 [main] INFO  test.java.AmazonTest - Verifying product page title
+2025-01-25 15:11:40 [main] INFO  test.java.AmazonTest - Closing WebDriver and finalizing Extent Reports
